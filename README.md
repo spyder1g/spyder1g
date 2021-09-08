@@ -1,6 +1,4 @@
-- 👋 Hi, I’m $PYDER
-- 👀 I’m interested in c++ development, and valorant
-- 🌱 I’m currently learning php, html, and c#
+
 - 📫 How to reach me discord $PYDER#0999
 
 <!---
